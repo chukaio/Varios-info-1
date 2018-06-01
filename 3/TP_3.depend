@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1527630555 source:c:\users\pmtor\desktop\tp_3\input.c
+	"Input.h"
+
+1527630654 c:\users\pmtor\desktop\tp_3\input.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1527645528 source:c:\users\pmtor\desktop\tp_3\main.c
+	"Funciones.h"
+
+1527645527 c:\users\pmtor\desktop\tp_3\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Input.h"
+
+1527662737 source:c:\users\pmtor\desktop\tp_3\funciones.c
+	"Funciones.h"
+
+1527711378 source:c:\users\pablo\desktop\tp3333333 2\tp_3\input.c
+	"Input.h"
+
+1527711357 c:\users\pablo\desktop\tp3333333 2\tp_3\input.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1527708359 source:c:\users\pablo\desktop\tp3333333 2\tp_3\main.c
+	"Funciones.h"
+
+1527709504 c:\users\pablo\desktop\tp3333333 2\tp_3\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Input.h"
+
+1527711557 source:c:\users\pablo\desktop\tp3333333 2\tp_3\funciones.c
+	"Funciones.h"
+
+1527702853 c:\users\pablo\desktop\tp3333333 2\tp_3\fotos\input2.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1527769011 source:c:\users\pmtor\desktop\new folder\tp_3\funciones.c
+	"Funciones.h"
+
+1527755434 c:\users\pmtor\desktop\new folder\tp_3\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Input.h"
+
+1527763506 c:\users\pmtor\desktop\new folder\tp_3\input.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1527763487 source:c:\users\pmtor\desktop\new folder\tp_3\input.c
+	"Input.h"
+
+1527764411 source:c:\users\pmtor\desktop\new folder\tp_3\main.c
+	"Funciones.h"
+
+1527770728 source:c:\users\pmtor\desktop\tp3 casi definitivo\funciones.c
+	"Funciones.h"
+
+1527770240 c:\users\pmtor\desktop\tp3 casi definitivo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Input.h"
+
+1527770228 c:\users\pmtor\desktop\tp3 casi definitivo\input.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1527770218 source:c:\users\pmtor\desktop\tp3 casi definitivo\input.c
+	"Input.h"
+
+1527770253 source:c:\users\pmtor\desktop\tp3 casi definitivo\main.c
+	"Funciones.h"
+
+1527864850 source:c:\users\pmtor\desktop\3\input.c
+	"Input.h"
+
+1527864873 c:\users\pmtor\desktop\3\input.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1527781862 source:c:\users\pmtor\desktop\3\main.c
+	"Funciones.h"
+
+1527781887 c:\users\pmtor\desktop\3\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Input.h"
+
+1527864818 source:c:\users\pmtor\desktop\3\funciones.c
+	"Funciones.h"
+
