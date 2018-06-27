@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1530016771 source:c:\users\pmtor\desktop\abm\testpractica\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1528868054 c:\users\pmtor\desktop\abm\testpractica\arraylist.h
+
+1530017065 source:c:\users\pmtor\desktop\abm\testpractica\employee.c
+	"Input.h"
+	"ArrayList.h"
+	"Employee.h"
+
+1529850982 c:\users\pmtor\desktop\abm\testpractica\input.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1529900072 c:\users\pmtor\desktop\abm\testpractica\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1529858410 source:c:\users\pmtor\desktop\abm\testpractica\input.c
+	"input.h"
+
+1530028479 source:c:\users\pmtor\desktop\abm\testpractica\main.c
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+
+1529857012 c:\users\pmtor\desktop\abm\testpractica\parser.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1530016771 source:c:\users\pmtor\desktop\abm\testpractica\parser.c
+	"ArrayList.h"
+	"Employee.h"
+	"parser.h"
+
